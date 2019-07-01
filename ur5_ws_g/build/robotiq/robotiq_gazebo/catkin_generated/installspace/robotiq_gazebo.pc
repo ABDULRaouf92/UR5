@@ -1,0 +1,8 @@
+prefix=/home/ros/ur5_ws_g/install
+
+Name: robotiq_gazebo
+Description: Description of robotiq_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/ros/ur5_ws_g/install/lib 
+Requires: roscpp gazebo_ros control_toolbox xmlrpcpp
